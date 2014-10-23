@@ -10,7 +10,7 @@ Clone this repo inside of your app folder:
 app-folder:~$ git clone git@github.com:voronianski/node-config-boilerplate.git config
 ```
 
-Create configs for every of your app environments just putting the env name as prefix of the file name:
+Create configs for every of your app environment just putting the env name as prefix of the file name:
 
 ```bash
 production.config.js
