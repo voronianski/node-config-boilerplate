@@ -1,7 +1,5 @@
 # node-config-boilerplate
 
-![](http://img.shields.io/github/tag/voronianski/node-config-boilerplate.svg?style=flat)
-
 > Scalable node.js application config template.
 
 ## Get started
