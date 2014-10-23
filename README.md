@@ -23,6 +23,17 @@ testing.config.js
 etc.
 ```
 
+Use it inside of your application:
+
+```javascript
+var express = require('express');
+var config = require('./config');
+
+var app = express();
+
+app.listen(config.http.port);
+```
+
 ## Template tags
 
 You are able to use tags like `$(config.property.childProperty)` to point to specific properties of config:
