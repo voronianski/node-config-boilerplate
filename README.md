@@ -50,7 +50,7 @@ module.exports = {
 
 ## References
 
-This small template is simplified version of the https://github.com/e-conomic/config. It is available as [npm](https://www.npmjs.org/package/cnf) module you're free to use instead if it's more suitable for your needs. 
+This small template is simplified version of the https://github.com/e-conomic/config. It is available as [npm](https://www.npmjs.org/package/cnf) module and you're free to use instead if it's more suitable for your needs. 
 
 _IMHO using config as separate module may lead to some confusion, as well as complicates extending for specific application needs._
 
