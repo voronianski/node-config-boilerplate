@@ -34,7 +34,7 @@ app.listen(config.http.port);
 
 ## Template tags
 
-You are able to use tags like `$(config.property.childProperty)` to point to specific properties of config:
+You are able to use tags like `$(configProperty.childProperty)` to point to specific properties of config:
 
 ```javascript
 module.exports = {
