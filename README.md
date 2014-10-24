@@ -13,6 +13,7 @@ app-folder:~$ git clone git@github.com:voronianski/node-config-boilerplate.git c
 Create configs for every of your app environment just putting the env name as prefix of the file name:
 
 ```bash
+app-folder/config:~$ ls -a
 production.config.js
 development.config.js
 staging.config.js
