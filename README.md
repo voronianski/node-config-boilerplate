@@ -14,6 +14,7 @@ Create configs for every of your app environment just putting the env name as pr
 
 ```bash
 app-folder/config:~$ ls -a
+
 production.config.js
 development.config.js
 staging.config.js
