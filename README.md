@@ -17,8 +17,8 @@ app-folder/config:~$ ls -a
 
 production.config.js
 development.config.js
-staging.config.js
-testing.config.js
+stage.config.js
+test.config.js
 
 etc.
 ```
