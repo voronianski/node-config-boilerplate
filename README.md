@@ -27,6 +27,8 @@ Use it inside of your application:
 
 ```javascript
 var express = require('express');
+
+// this will require necessary config for your env
 var config = require('./config');
 
 var app = express();
